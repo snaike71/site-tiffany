@@ -1,0 +1,10 @@
+{
+    "development": {
+      "username": "root",
+      "password": "root",
+      "database": "tiffanyDb",
+      "host": "mysql",
+      "dialect": "mysql"
+    }
+}
+  

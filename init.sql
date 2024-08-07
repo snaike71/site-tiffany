@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS words (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    english_word VARCHAR(100) NOT NULL,
+    french_word VARCHAR(100) NOT NULL
+);
